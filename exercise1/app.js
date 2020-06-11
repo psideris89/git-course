@@ -27,6 +27,7 @@ console.log("Sub result:", result2);
 result3 = addNumber(20);
 console.log("AddNumber result:", result3);
 
+// Add docu for last func
 result4 = subNumber(20);
 console.log("SubNumber result:", result4);
 
