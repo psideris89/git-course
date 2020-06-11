@@ -14,7 +14,7 @@ function subNumber(a) {
     return a - 5;
 }
 
-result1 = add(10, 5);
+result1 = add(10, 7);
 console.log("Add result:", result1);
 
 result2 = sub(28, 3);
