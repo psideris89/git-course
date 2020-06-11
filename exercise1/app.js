@@ -19,6 +19,8 @@ function subNumber(a) {
 result1 = add(10, 5);
 console.log("Add result:", result1);
 
+// ADD DOc for add function
+//
 result2 = sub(28, 3);
 console.log("Sub result:", result2);
 
