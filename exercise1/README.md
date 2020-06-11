@@ -6,6 +6,8 @@
 - update result1 to add the number 10 and 7
 - commit that change.
 
+Add documentation for git
+
 To run the exercise:
 ```
 node app.js
